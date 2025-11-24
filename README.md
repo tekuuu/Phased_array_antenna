@@ -34,4 +34,4 @@ pip install numpy scipy matplotlib
 
 ## License
 
-This project is provided for educational
+This project is provided for educational purpose
